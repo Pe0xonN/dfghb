@@ -1,0 +1,6 @@
+version: '3.8'
+
+services:
+  teldrive:
+    build: .
+    container_name: teldrive_container
